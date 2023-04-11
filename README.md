@@ -42,6 +42,12 @@ is hardcoded and not dependent on the page route. Check out the files `/pages/ap
 Update the `[id].ts` file so that when `/menu/[id]` is requested, we return with the correct set of products from `data.json`.
 **Hint: you might want to check the docs for Next.js to see how API routes can vary on path parameters.**
 
+
+## Submitting
+
+You can submit your test submission as a private fork of this repo, inviting matt@wi-q.com and leon@wi-q.com, or simply upload it somewhere
+as a zip file if easier and send it over on cord or by email.
+
 ## Advice
 
 - Try not to spend more than 90 minutes on this test.
@@ -52,4 +58,4 @@ Update the `[id].ts` file so that when `/menu/[id]` is requested, we return with
   - What errors cases might need covering?
   - What kind of testing could you do to make the code more robust?
   - How are you loading in the JSON file? What if the file changes at runtime?
-- These are just examples, we don't expect you to cover every edge case, test every function, or handle every error case. Focus on areas you feel you can best demonstrate your strenghts in the time available.
+- These are just examples, we don't expect you to cover every edge case, test every function, or handle every error case. Focus on areas you feel you can best demonstrate your strengths in the time available.
