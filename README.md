@@ -45,7 +45,7 @@ Update the `[id].ts` file so that when `/menu/[id]` is requested, we return with
 
 ## Submitting
 
-You can submit your test submission as a private fork of this repo, inviting matt@wi-q.com and leon@wi-q.com, or simply upload it somewhere
+You can submit your test submission as a private copy of this repo, inviting matt@wi-q.com and leon@wi-q.com, or simply upload it somewhere
 as a zip file if easier and send it over on cord or by email.
 
 ## Advice
